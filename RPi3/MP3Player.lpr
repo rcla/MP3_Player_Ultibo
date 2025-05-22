@@ -640,9 +640,9 @@ begin
      PWMDeviceStop(PWM1Device);
 
      {Release MAD structures}
-     mad_stream_init(umad_stream);
-     mad_synth_init(umad_synth);
-     mad_frame_init(umad_frame);
+     mad_stream_finish(umad_stream);
+     mad_synth_finish(umad_synth);
+     mad_frame_finish(umad_frame);
 
     end
    else
