@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="MP3Player.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="385"/>
+        <CursorPos X="59" Y="13"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mad.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="389"/>
+        <CursorPos X="22" Y="402"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\Ultibo\Core\fpc\3.2.2\source\rtl\inc\ctypes.pp"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="39"/>
+        <CursorPos X="3" Y="52"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="488" Column="44" TopLine="475"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="506" Column="10" TopLine="488"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="503" Column="45" TopLine="493"/>
+      </Position3>
+      <Position4>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="434" Column="4" TopLine="418"/>
+      </Position4>
+      <Position5>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="438" Column="30" TopLine="423"/>
+      </Position5>
+      <Position6>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="490" Column="42" TopLine="477"/>
+      </Position6>
+      <Position7>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="489" Column="24" TopLine="476"/>
+      </Position7>
+      <Position8>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="528" Column="10" TopLine="482"/>
+      </Position8>
+      <Position9>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="495" Column="41" TopLine="482"/>
+      </Position9>
+      <Position10>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="498" Column="37" TopLine="482"/>
+      </Position10>
+      <Position11>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="501" Column="39" TopLine="487"/>
+      </Position11>
+      <Position12>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="491" Column="33" TopLine="478"/>
+      </Position12>
+      <Position13>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="531" Column="23" TopLine="515"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mad.pas"/>
+        <Caret Line="402" Column="22" TopLine="389"/>
+      </Position14>
+      <Position15>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="36" Column="31" TopLine="26"/>
+      </Position15>
+      <Position16>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="534" Column="30" TopLine="515"/>
+      </Position16>
+      <Position17>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="45" TopLine="24"/>
+      </Position17>
+      <Position18>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="606" Column="73" TopLine="588"/>
+      </Position18>
+      <Position19>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="36" Column="2" TopLine="28"/>
+      </Position19>
+      <Position20>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="37" Column="2" TopLine="632"/>
+      </Position20>
+      <Position21>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="539" Column="99" TopLine="528"/>
+      </Position21>
+      <Position22>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="439" Column="83" TopLine="416"/>
+      </Position22>
+      <Position23>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="567" Column="25" TopLine="552"/>
+      </Position23>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

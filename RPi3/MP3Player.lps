@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="MP3Player.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="549"/>
+        <CursorPos X="5" Y="575"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="63" Column="5" TopLine="43"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="483" TopLine="472"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="521" Column="81" TopLine="502"/>
+      </Position3>
+      <Position4>
+        <Filename Value="MP3Player.lpr"/>
+        <Caret Line="532" Column="48" TopLine="521"/>
+      </Position4>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

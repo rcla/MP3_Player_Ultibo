@@ -1,0 +1,5 @@
+{ "MP3 Player (RPi3)" : {
+   "Category" : "Ultibo (Raspberry Pi 3A/3B/Zero2)",
+   "Keywords" : ["Audio", "PCM", "DMA", "MP3"],
+   "Description" : "MP3 Player with Ultibo and libmad, we load a MP3 file from the SD card, decode it and play it using DMA.\r\n\r\nYou'll need an audio playback device such as an amplifier, TV or headphones connected to the audio jack on your Raspberry Pi.\r\n\r\nRaspberry Pi 3B/3B+/3A+/Zero2W version"}
+}
