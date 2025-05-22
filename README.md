@@ -9,8 +9,8 @@
 
 Based on the [20-PWMSound](https://github.com/ultibohub/Examples/tree/master/20-PWMSound) example (Pascal).
 
-- Folder Rpi3 (Raspberry Pi 3A/3B/Zero2).
-- Folder Rpi4 (Raspberry Pi 4B/400).
+- Folder RPi3 (Raspberry Pi 3A/3B/Zero2).
+- Folder RPi4 (Raspberry Pi 4B/400).
 - You must compile the Ultibo project (Pascal).
 - Copy the `test.mp3` file to the micro SD.
 
